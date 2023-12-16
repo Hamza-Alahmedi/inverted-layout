@@ -8,7 +8,3 @@ function App() {
 }
 
 export default App;
-//   <div className="bg-image bg-center bg-cover">
-
-//   </div>
-// </>
